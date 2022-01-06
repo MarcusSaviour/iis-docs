@@ -3,32 +3,32 @@
     {
       "source_path": "iis/application-frameworks/building-and-running-aspnet-applications/index.md",
       "redirect_url": "/iis/application-frameworks/building-and-running-aspnet-applications/using-aspnet-forms-authentication",
-      "redirect_document_id": false
+      "redirect_document_id": true
     },
     {
       "source_path": "iis/application-frameworks/index.md",
       "redirect_url": "/iis/application-frameworks/building-and-running-aspnet-applications",
-      "redirect_document_id": false
+      "redirect_document_id": true
     },
     {
       "source_path": "iis/application-frameworks/install-and-configure-php-applications-on-iis/index.md",
       "redirect_url": "/iis/application-frameworks/install-and-configure-php-applications-on-iis/advanced-poll-on-iis",
-      "redirect_document_id": false
+      "redirect_document_id": true
     },
     {
       "source_path": "iis/application-frameworks/install-and-configure-php-applications-on-iis/phprojekt-on-iis.md",
       "redirect_url": "/iis/",
-      "redirect_document_id": false
+      "redirect_document_id": true
     },
     {
       "source_path": "iis/application-frameworks/install-and-configure-php-on-iis/index.md",
       "redirect_url": "/iis/application-frameworks/install-and-configure-php-on-iis/configuring-the-fastcgi-extension-for-iis-60",
-      "redirect_document_id": false
+      "redirect_document_id": true
     },
     {
       "source_path": "iis/application-frameworks/running-classic-asp-applications-on-iis-7-and-iis-8/index.md",
       "redirect_url": "/iis/application-frameworks/running-classic-asp-applications-on-iis-7-and-iis-8/classic-asp-not-installed-by-default-on-iis",
-      "redirect_document_id": false
+      "redirect_document_id": true
     },
     {
       "source_path": "iis/application-frameworks/running-php-applications-on-iis/index.md",
